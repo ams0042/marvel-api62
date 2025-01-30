@@ -1,7 +1,7 @@
 {
     "name": "marvel-api",
     "version": "1.0.0",
-    "description": "Aplicación de Marvel API con Node.js y Express",
+    "description": "Aplicación Marvel API con Node.js y Express",
     "main": "server.js",
     "scripts": {
       "start": "node server.js",
